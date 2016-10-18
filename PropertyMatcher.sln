@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainPropertyMatcher", "PropertyMatcher\DomainPropertyMatcher.csproj", "{818D08B0-F40C-4C38-A853-1E2748F0D0F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainPropertyMatcher.Test", "PropertyMatcher.Test\DomainPropertyMatcher.Test.csproj", "{DE571E85-E380-411F-AB02-A55080630B71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{818D08B0-F40C-4C38-A853-1E2748F0D0F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818D08B0-F40C-4C38-A853-1E2748F0D0F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818D08B0-F40C-4C38-A853-1E2748F0D0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818D08B0-F40C-4C38-A853-1E2748F0D0F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE571E85-E380-411F-AB02-A55080630B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE571E85-E380-411F-AB02-A55080630B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE571E85-E380-411F-AB02-A55080630B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE571E85-E380-411F-AB02-A55080630B71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
